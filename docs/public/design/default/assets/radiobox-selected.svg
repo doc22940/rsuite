@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
-    <title>radiobox-selected</title>
-    <desc>Created with Sketch.</desc>
-    <g id="radiobox-selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval-Copy" fill="#3498FF" cx="8" cy="8" r="8"></circle>
-        <circle id="Oval-Copy" fill="#FFFFFF" cx="8" cy="8" r="3"></circle>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><title>radiobox-selected</title><desc>Created with Sketch.</desc><g id="radiobox-selected" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><circle id="Oval-Copy" cx="8" cy="8" r="8" fill="#3498FF"/><circle id="Oval-Copy" cx="8" cy="8" r="3" fill="#FFF"/></g></svg>
