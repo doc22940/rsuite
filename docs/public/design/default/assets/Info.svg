@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
-    <title>Info</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <circle id="Oval-6" fill="#2196F3" cx="6" cy="6" r="6"></circle>
-        <circle id="Oval-7" fill="#FFFFFF" cx="6" cy="3" r="1"></circle>
-        <rect id="Rectangle-16-Copy" fill="#FFFFFF" x="5" y="5" width="2" height="5" rx="1"></rect>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" version="1.1" viewBox="0 0 12 12"><title>Info</title><desc>Created with Sketch.</desc><g id="Info" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><circle id="Oval-6" cx="6" cy="6" r="6" fill="#2196F3"/><circle id="Oval-7" cx="6" cy="3" r="1" fill="#FFF"/><rect id="Rectangle-16-Copy" width="2" height="5" x="5" y="5" fill="#FFF" rx="1"/></g></svg>
